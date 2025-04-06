@@ -1,7 +1,7 @@
 # MVVM, Combine, UIKit, Programmatic UI, Pagination, Login, Persist Login, Products Listing
 
 
-### 👋 Hi! This repo conatains an App fulfulling following criterea
+### 👋 Hi! This repo conatains an App having following features.
 
 # App Features
 ### 1. Login Flow
