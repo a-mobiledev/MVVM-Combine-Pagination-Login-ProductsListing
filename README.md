@@ -36,7 +36,14 @@ navigated to the Home Screen on the next app launch.
 2- Same for Pagination, I didn't get any oublic API with same features having pagination. So I have implemented pagination demo for your referance.
 3- To test Pagination click on any product collection item, it will land on a new page, where you can test pagination.
 
-# How to login ?
+# How to Run ?
+1- Download Project
+2- This project is developed with XCode 16, BTW you can use XCode 15 as well.
+2- Install cocoapods
+3- open Assessment.xcworkspace
+4- Hit Run Button and that's it.
+
+### Login
 For login username and password you can hit this API on google "https://dummyjson.com/users"
 It will give you plenty of user entries, you can try any username and password.
 Email could be anyone, this is just for showing validations. 
