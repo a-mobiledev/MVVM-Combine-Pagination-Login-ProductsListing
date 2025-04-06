@@ -1,0 +1,66 @@
+# Swift Package Manager
+/.build/
+/Packages/
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+
+# User-specific files
+*.swp
+*~
+.idea/
+
+# Derived data
+DerivedData/
+
+# Xcode Archives
+*.xcarchive
+
+# Xcode Preferences
+*.xcscheme
+*.xcworkspace
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
+
+# SwiftPM
+.swiftpm/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.log
+*.aux
+*.toc
+*.fls
+*.out
+*.bak
+
+# Crashlytics
+crashlytics-build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Pods (CocoaPods)
+podfile.lock
+Podfile.lock
+
+# xcconfig files (if you don't want to commit these)
+*.xcconfig
+
+# iOS Simulator logs
+*.simulator
+
+# Firebase-related files
+firebase-debug.log
